@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Athena-X-rush/Athena-X-rush/main/assets/shopping.png" alt="Athena-X-rush Logo" width="200"/>
-</p>
 
 <h1 align="center">Hi there 👋, I’m Athena-X-rush</h1>
 <p align="center">
