@@ -22,7 +22,7 @@
 
 ### **CRM System**
 A full-stack Customer Relationship Management system to manage customer data, track interactions, and generate insights for better decision-making.  
-[Repository Link](https://github.com/Athena-X-rush/crm-system)
+[Repository Link](https://github.com/Athena-X-rush/smart-crm)
 
 ### **AI-Based Task Scheduler**
 An AI-powered task scheduler that automates task planning, prioritizes tasks, and adapts to changes in real time to boost productivity.  
