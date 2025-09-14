@@ -40,8 +40,9 @@ An AI-powered task scheduler that automates task planning, prioritizes tasks, an
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/mayank-bisht-047807324)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](bishtmayank293@gmail.com)
+[![LinkedIn][![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mayank-bisht-047807324)
+ 
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:bishtmayank293@gmail.com)
 
 ---
 
