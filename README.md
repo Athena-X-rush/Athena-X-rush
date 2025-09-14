@@ -1,9 +1,9 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Athena-X-rush/Athena-X-rush/main/assets/logo.png" alt="RampageX Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/Athena-X-rush/Athena-X-rush/main/assets/logo.png" alt="Athena-X-rush" width="200"/>
 </p>
 
-<h1 align="center">Hi there 👋, I’m RampageX</h1>
+<h1 align="center">Hi there 👋, I’m Athena-X-rush</h1>
 <p align="center">Computer Science Engineering student | Backend Developer | AI Enthusiast</p>
 
 ---
@@ -50,11 +50,11 @@ I love **optimizing backend systems** and **exploring AI algorithms** in my free
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rampageX&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Athena-X-rush&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampageX&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athena-X-rush&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 
