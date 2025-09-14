@@ -3,11 +3,18 @@
 </p>
 
 <h1 align="center">Hi there 👋, I’m Athena-X-rush</h1>
-<p align="center">Computer Science Engineering student | Backend Developer | AI Enthusiast</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Athena-X-rush/Athena-X-rush/main/assets/shopping.png" alt="Athena-X-rush Logo" width="200"/>
+</p>
+
+<h1 align="center">Hi there 👋, I’m RampageX</h1>
+<p align="center">
+Backend Developer | AI & ML Enthusiast | Cloud Computing & UI/UX Design | CSE Student
+</p>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technologies & Tools
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue) 
@@ -28,17 +35,18 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
-**Currently Learning:**  
-![AI](https://img.shields.io/badge/AI-MachineLearning-blueviolet) 
-![Cloud](https://img.shields.io/badge/Cloud-Computing-lightgrey) 
-![Microservices](https://img.shields.io/badge/Microservices-orange)
+**Currently Learning & Interests:**  
+- Artificial Intelligence & Machine Learning  
+- Cloud Computing  
+- UI/UX Design  
+- Microservices & Scalable Backend Systems  
 
 ---
 
-## 💻 Projects
+## 🚀 My Projects
 
 ### **CRM System**
-A full-stack Customer Relationship Management system to manage customer data, track interactions, and generate insights for better decision-making.  
+A full-stack Customer Relationship Management system to manage customer data, track interactions, and generate insights.  
 [Repository Link](https://github.com/Athena-X-rush/smart-crm)
 
 ### **AI-Based Task Scheduler**
@@ -60,10 +68,13 @@ An AI-powered task scheduler that automates task planning, prioritizes tasks, an
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mayank-bisht-047807324)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:bishtmayank293@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:bishtmayank293@gmail.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-6D3F7C?logo=codechef&logoColor=white)](https://www.codechef.com/users/yourusername)
 
 ---
 
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Athena-X-rush&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 </p>
@@ -71,3 +82,8 @@ An AI-powered task scheduler that automates task planning, prioritizes tasks, an
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athena-X-rush&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
+
+---
+
+## ⚡ Fun Fact
+I love **optimizing backend systems**, **exploring AI algorithms**, and designing **user-friendly UI/UX** for real-world applications!
