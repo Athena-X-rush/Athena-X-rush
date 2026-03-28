@@ -54,7 +54,7 @@ MERN Stack Developer | Cloud Enthusiast | CSE Student
 
 ### 🎮 RPG Game
 A small RPG-based project focused on game logic, state management, and interactive UI.  
-🔗 https://github.com/Athena-X-rush/YOUR-RPG-REPO
+🔗 https://github.com/Athena-X-rush/coding-lesson-app
 
 ---
 
