@@ -26,16 +26,14 @@
 
 ## 🧠 About Me
 
-I'm a **Backend-Focused Full Stack Developer** from India 🇮🇳, passionate about building scalable, production-ready applications that solve real problems.
+> Backend-focused Full Stack Developer from India 🇮🇳 — building scalable apps that solve real problems.
 
-With hands-on experience in **Node.js, Next.js, and PostgreSQL**, I enjoy working across the stack — from designing robust REST APIs to shipping clean, responsive frontends. I'm currently deepening my expertise in **cloud infrastructure (AWS)**, **Docker**, and **system design** to build systems that scale.
-
-I believe in learning by shipping — every project I build is an opportunity to grow, and I'm always looking for meaningful collaborations, freelance opportunities, and open-source contributions.
-
-- 🔭 Currently building: AI-powered tools & full-stack SaaS applications
-- 🌱 Learning: Advanced TypeScript · AWS Architecture · System Design
-- 🤝 Open to: Internships · Freelance Gigs · Cool OSS Projects
-- 📫 Reach me at: **bishtmayank293@gmail.com**
+| | |
+|---|---|
+| 🔭 **Building** | AI-powered tools & full-stack SaaS apps |
+| 🌱 **Learning** | Advanced TypeScript · AWS · System Design |
+| 🤝 **Open to** | Internships · Freelance · Cool OSS |
+| 📫 **Contact** | bishtmayank293@gmail.com |
 
 ---
 
@@ -44,23 +42,31 @@ I believe in learning by shipping — every project I build is an opportunity to
 <div align="center">
 
 **👨‍💻 Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts" />
 
-<img src="https://skillicons.dev/icons?i=js,ts,sql" />
+<br/>
 
 **⚙️ Backend & Frameworks**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react" />
 
-**🗄️ Databases**
+<br/>
 
+**🗄️ Databases**
+<br/>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
 
-**☁️ DevOps & Cloud**
+<br/>
 
+**☁️ DevOps & Cloud**
+<br/>
 <img src="https://skillicons.dev/icons?i=docker,aws,git" />
 
-**🧰 Tools**
+<br/>
 
+**🧰 Tools**
+<br/>
 <img src="https://skillicons.dev/icons?i=postman,vscode,github" />
 
 </div>
