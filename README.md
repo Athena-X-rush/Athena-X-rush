@@ -8,7 +8,7 @@
 
 <br/>
 
-<!-- ═══════════════════ PROFILE VIEWS + SOCIAL BADGES ═══════════════════ -->
+<!-- ═══════════════════ SOCIAL BADGES ═══════════════════ -->
 <a href="https://www.linkedin.com/in/mayank-bisht-047807324">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -26,24 +26,16 @@
 
 ## 🧠 About Me
 
-```yaml
-name: Mayank Bisht
-alias: Athena-X-rush
-role: Backend-Focused Full Stack Developer
-location: India 🇮🇳
-focus:
-  - Building scalable apps with Node.js, Next.js & PostgreSQL
-  - Exploring AWS, Docker & System Design
-  - Open to Internships, Freelancing & Real-World Impact
-currently_learning:
-  - Advanced TypeScript & Backend Scaling
-  - AWS Deployment & Architecture
-  - System Design Fundamentals
-open_to:
-  - Collaborations
-  - Freelance Gigs
-  - Cool OSS Projects
-```
+I'm a **Backend-Focused Full Stack Developer** from India 🇮🇳, passionate about building scalable, production-ready applications that solve real problems.
+
+With hands-on experience in **Node.js, Next.js, and PostgreSQL**, I enjoy working across the stack — from designing robust REST APIs to shipping clean, responsive frontends. I'm currently deepening my expertise in **cloud infrastructure (AWS)**, **Docker**, and **system design** to build systems that scale.
+
+I believe in learning by shipping — every project I build is an opportunity to grow, and I'm always looking for meaningful collaborations, freelance opportunities, and open-source contributions.
+
+- 🔭 Currently building: AI-powered tools & full-stack SaaS applications
+- 🌱 Learning: Advanced TypeScript · AWS Architecture · System Design
+- 🤝 Open to: Internships · Freelance Gigs · Cool OSS Projects
+- 📫 Reach me at: **bishtmayank293@gmail.com**
 
 ---
 
@@ -53,19 +45,23 @@ open_to:
 
 **👨‍💻 Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,sql,python" />
+<img src="https://skillicons.dev/icons?i=js,ts,sql" />
 
 **⚙️ Backend & Frameworks**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react" />
 
-**🗄️ Databases & DevOps**
+**🗄️ Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,git" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+
+**☁️ DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git" />
 
 **🧰 Tools**
 
-<img src="https://skillicons.dev/icons?i=postman,vscode,figma,github,linux" />
+<img src="https://skillicons.dev/icons?i=postman,vscode,github" />
 
 </div>
 
@@ -78,6 +74,7 @@ open_to:
 <a href="https://github.com/Athena-X-rush/InterviewPrep">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Athena-X-rush&repo=InterviewPrep&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&icon_color=00F7FF" />
 </a>
+&nbsp;
 <a href="https://github.com/Athena-X-rush/smart-crm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Athena-X-rush&repo=smart-crm&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&icon_color=00F7FF" />
 </a>
@@ -86,9 +83,9 @@ open_to:
 
 <br/>
 
-| Project | Description | Tech | Live |
+| Project | Description | Tech | Link |
 |--------|-------------|------|------|
-| 🧠 **AI Interview Platform** | AI-powered interview prep with quizzes, resume analysis & feedback. Includes quiz mode, AI interviewer, resume-based questions & leaderboard | React, Node.js, Express, PostgreSQL, Groq API | [🔗 Repo](https://github.com/Athena-X-rush/InterviewPrep) |
+| 🧠 **AI Interview Platform** | AI-powered interview prep with quizzes, resume analysis & feedback. Features quiz mode, AI interviewer & leaderboard | React, Node.js, Express, PostgreSQL, Groq API | [🔗 Repo](https://github.com/Athena-X-rush/InterviewPrep) |
 | 🧩 **Smart CRM System** | Full-stack CRM for managing customer data & workflows | MERN + PostgreSQL | [🔗 Repo](https://github.com/Athena-X-rush/smart-crm) |
 | 🎮 **RPG Game Project** | Game logic + state management focused project | React, Node.js | [🔗 Repo](https://github.com/Athena-X-rush/coding-lesson-app) |
 
@@ -109,7 +106,7 @@ open_to:
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Athena-X-rush&theme=react-dark&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Athena-X-rush&theme=react-dark&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -139,18 +136,8 @@ open_to:
 
 <div align="center">
 
-> *"The best error message is the one that never shows up."*  
+> *"The best error message is the one that never shows up."*
 > — Thomas Fuchs
-
-</div>
-
----
-
-## 😂 Random Dev Joke
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=%230D1117&borderColor=%2300F7FF&qColor=%2300F7FF&aColor=%23FFFFFF" alt="Jokes Card" />
 
 </div>
 
