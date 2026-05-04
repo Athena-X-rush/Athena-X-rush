@@ -1,79 +1,93 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Athena-X-rush/Athena-X-rush/main/assets/shopping.png" width="180"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Athena-X-rush</h1>
+⚡ Athena-X-rush
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Backend+Focused;Cloud+Enthusiast;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Focused;Next.js+%7C+Node.js+%7C+AWS;Building+Real+World+Projects;Open+to+Internships+%26+Freelance" />
 </p>
 
-<p align="center">
-MERN Stack Developer | Cloud Enthusiast | CSE Student
-</p>
+⸻
 
----
+🧠 About Me
 
-## 🚀 About Me
+* 💻 Backend-focused Full Stack Developer
+* ⚙️ Building scalable apps using Node.js, Next.js, PostgreSQL
+* ☁️ Exploring AWS, Docker & system design
+* 🚀 Focused on internships + freelancing + real-world impact
 
-- 💻 Backend-focused MERN Developer  
-- ⚙️ Interested in scalable systems & clean architecture  
-- ☁️ Exploring Cloud & deployment workflows  
-- 🧠 Learning by building real-world projects  
+⸻
 
----
+🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+👨‍💻 Languages
 
-### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,sql" />
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+⚙️ Backend & Frameworks
 
-### 🗄️ Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" />
 
----
+🗄️ Database & Tools
 
-## 🌱 Currently Learning
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,postman,aws" />
 
-- Cloud Computing (AWS)
-- System Design
-- Backend Performance Optimization
-- Scalable Application Architecture
+⸻
 
----
+🚀 Featured Projects
 
-## 🧩 Projects
+🧠 AI Interview Platform
 
-### 🎮 RPG Game
-A small RPG-based project focused on game logic, state management, and interactive UI.  
-🔗 https://github.com/Athena-X-rush/coding-lesson-app
+→ AI-powered interview prep with quizzes, resume analysis & feedback
+→ Features: Quiz mode, AI interviewer, resume-based questions, leaderboard
+→ Tech: React, Node.js, Express, PostgreSQL (Supabase), Groq API
+→ Deploy: Netlify + Render
+🔗 https://github.com/Athena-X-rush/InterviewPrep
 
----
+⸻
 
-### 🧠 CRM System
-A full-stack CRM to manage customer data and interactions.  
+🧩 Smart CRM System
+
+→ Full-stack CRM for managing customer data & workflows
+→ Tech: MERN + PostgreSQL
 🔗 https://github.com/Athena-X-rush/smart-crm
 
----
+⸻
 
-## 🏆 Achievements
+🎮 RPG Game Project
 
-- Built multiple backend & full-stack projects  
-- Participated in hackathons & coding contests  
-- Strong problem-solving mindset  
-- Continuously improving development skills  
+→ Game logic + state management focused project
+🔗 https://github.com/Athena-X-rush/coding-lesson-app
 
----
+⸻
 
-## 📫 Connect With Me
+📊 GitHub Analytics
+
+⸻
+
+📈 Contribution Graph
+
+⸻
+
+🏆 Achievements
+
+* Built AI-powered and full-stack production-ready apps
+* Strong backend & system thinking mindset
+* Consistently learning and shipping projects
+
+⸻
+
+🌱 Current Focus
+
+* ⚡ Advanced TypeScript & backend scaling
+* ☁️ AWS deployment & architecture
+* 🧠 System design fundamentals
+* 🚀 Building impactful projects
+
+⸻
+
+😂 Dev Zone
+
+⸻
+
+🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayank-bisht-047807324">
@@ -82,13 +96,12 @@ A full-stack CRM to manage customer data and interactions.
   <a href="mailto:bishtmayank293@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail" />
   </a>
-  <a href="https://leetcode.com/yourusername">
-    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode" />
-  </a>
 </p>
 
----
+⸻
 
-## ⚡ Fun Fact
+🐍 Contribution Snake
 
-I like building systems that actually work in real-world scenarios — not just tutorial projects 🚀
+⸻
+
+⚡ “Build. Scale. Stand Out.”
