@@ -72,11 +72,11 @@ I believe in learning by shipping — every project I build is an opportunity to
 <div align="center">
 
 <a href="https://github.com/Athena-X-rush/InterviewPrep">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Athena-X-rush&repo=InterviewPrep&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&icon_color=00F7FF" />
+  <img align="center" src="https://github-readme-stats-silk-omega-dp73mjwngx.vercel.app/api/pin/?username=Athena-X-rush&repo=InterviewPrep&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&icon_color=00F7FF" />
 </a>
 &nbsp;
 <a href="https://github.com/Athena-X-rush/smart-crm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Athena-X-rush&repo=smart-crm&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&icon_color=00F7FF" />
+  <img align="center" src="https://github-readme-stats-silk-omega-dp73mjwngx.vercel.app/api/pin/?username=Athena-X-rush&repo=smart-crm&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&icon_color=00F7FF" />
 </a>
 
 </div>
@@ -95,8 +95,8 @@ I believe in learning by shipping — every project I build is an opportunity to
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Athena-X-rush&show_icons=true&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&hide_border=false&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athena-X-rush&layout=compact&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&text_color=FFFFFF&hide_border=false" />
+<img height="180em" src="https://github-readme-stats-silk-omega-dp73mjwngx.vercel.app/api?username=Athena-X-rush&show_icons=true&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&hide_border=false&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats-silk-omega-dp73mjwngx.vercel.app/api/top-langs/?username=Athena-X-rush&layout=compact&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&text_color=FFFFFF&hide_border=false" />
 
 </div>
 
